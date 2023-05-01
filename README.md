@@ -4,6 +4,8 @@ To run the program just run KD_Tree_GUI.py for 2D range tree with input points; 
 For 2D KD Tree, only one check box can be selected at the same time. Both check boxes have to be unselected to generate random points.
 
 KD_Tree_Time.ipynb is used for timing experiments as detailed in the report. 
-Requirements: Python 3.7 and above， Jupyter Notebook
-Dependencies: matplotlib, numpy， time， statistics
+
+Requirements: Python 3.7 and above, Jupyter Notebook
+
+Dependencies: matplotlib, numpy, time, statistics
 
