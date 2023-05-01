@@ -5,7 +5,7 @@ For 2D KD Tree, only one check box can be selected at the same time. Both check 
 
 KD_Tree_Time.ipynb is used for timing experiments as detailed in the report. 
 
-The algorithms are in utilities.py file, in which the code well-commented to explain the logics. 
+The algorithms are in utilities.py file, in which the code is well-commented to explain the logics. 
 
 Requirements: Python 3.7 and above, Jupyter Notebook
 
